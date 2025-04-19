@@ -1,6 +1,6 @@
 package com.ggstar.testclient;
 
-import com.ggstar.util.ip.IpHelper;
+import com.my_ip.util.ip.IpHelper;
 import org.junit.Test;
 
 /**

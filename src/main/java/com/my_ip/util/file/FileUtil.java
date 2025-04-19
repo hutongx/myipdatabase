@@ -1,10 +1,7 @@
-package com.ggstar.util.file;
+package com.my_ip.util.file;
 
 import java.io.*;
 
-/**
- * Created by Wang Zhe on 2015/7/29.
- */
 public class FileUtil {
 
     private static final String UTF_8 = "UTF-8";

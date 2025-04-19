@@ -1,7 +1,7 @@
-package com.ggstar.util.ip;
+package com.my_ip.util.ip;
 
-import com.ggstar.util.file.FileUtil;
-import com.ggstar.util.file.PoiUtil;
+import com.my_ip.util.file.FileUtil;
+import com.my_ip.util.file.PoiUtil;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -14,9 +14,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Wang Zhe on 2015/8/11.
- */
 public class IpHelper {
 
     private static IpTree ipTree = IpTree.getInstance();

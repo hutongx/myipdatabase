@@ -1,8 +1,5 @@
-package com.ggstar.util.ip;
+package com.my_ip.util.ip;
 
-/**
- * Created by Wang Zhe on 2015/8/11.
- */
 public class IpRelation {
 
     private String ipStart;

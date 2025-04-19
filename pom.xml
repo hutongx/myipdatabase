@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ggstar</groupId>
-    <artifactId>ipdatabase</artifactId>
+    <artifactId>myipdatabase</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
